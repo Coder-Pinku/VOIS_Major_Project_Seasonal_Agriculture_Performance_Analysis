@@ -577,7 +577,7 @@ This project demonstrates practical application of:
 
 **Priyanka Dutta**
 
-M.Sc. Data Science
+Master of Science, Data Science
 
 This project was developed as an academic data analysis project to apply Python-based exploratory data analysis and statistical techniques to an agricultural dataset.
 
