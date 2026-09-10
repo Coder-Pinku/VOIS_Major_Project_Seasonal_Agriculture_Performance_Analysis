@@ -506,8 +506,13 @@ Seasonal-Agriculture-Performance-Analysis/
 │   ├── yield_by_season.png
 │   ├── profit_by_season.png
 │   ├── correlation_heatmap.png
-│   └── project_workflow.png
+│   └── cost_per_ton_vs_farme_profit.png
 │
+|
+|─── instruction/
+|   ├── Major_Project_Seasonal_Agriculture_Performance_Analysis.pdf
+|
+|
 ├── README.md
 └── Priyanka_Dutta_STU687dd63dd4c1e1753077309.pptx
 ```
