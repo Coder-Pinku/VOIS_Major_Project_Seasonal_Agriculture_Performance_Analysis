@@ -521,7 +521,7 @@ If the dataset is too large or has redistribution restrictions, it can be omitte
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/Coder-Pinku/VOIS_Major_Project_Seasonal_Agriculture_Performance_Analysis>
 ```
 
 ### 2. Open the project directory
