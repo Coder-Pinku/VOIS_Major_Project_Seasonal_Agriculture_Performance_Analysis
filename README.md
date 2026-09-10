@@ -510,7 +510,7 @@ Seasonal-Agriculture-Performance-Analysis/
 │
 |
 |─── instruction/
-|    ├── Major_Project_Seasonal_Agriculture_Performance_Analysis.pdf
+|    └── Major_Project_Seasonal_Agriculture_Performance_Analysis.pdf
 |
 |
 ├── README.md
